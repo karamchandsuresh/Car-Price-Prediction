@@ -66,7 +66,7 @@ Multiple models are trained and compared to identify the most accurate approach 
 6. **Visualization**
    - Model comparison using bar charts  
 
-<img width="1441" height="853" alt="Screenshot 2026-04-08 162450" src="https://github.com/user-attachments/assets/af369bca-018b-4a8f-aad9-5fcf5cc47646" />
+<img width="1455" height="698" alt="Screenshot 2026-04-08 162515" src="https://github.com/user-attachments/assets/91acf9db-bbbb-4657-918c-1571bb885638" />
 
 ---
 
@@ -78,7 +78,6 @@ Multiple models are trained and compared to identify the most accurate approach 
   - Lower MAE and MSE  
 - These models capture **non-linear relationships** effectively
 
-<img width="1455" height="698" alt="Screenshot 2026-04-08 162515" src="https://github.com/user-attachments/assets/91acf9db-bbbb-4657-918c-1571bb885638" />
 
 ---
 
