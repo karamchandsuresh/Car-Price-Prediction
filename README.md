@@ -52,11 +52,10 @@ Multiple models are trained and compared to identify the most accurate approach 
 
 5. **Model Training**
    - Train-test split
-  
-<img width="1428" height="744" alt="Screenshot 2026-04-08 162431" src="https://github.com/user-attachments/assets/bbe7c52a-cced-4481-a084-090f1d3a3281" />
+   - Scaling (for linear models)
 
+ <img width="1428" height="744" alt="Screenshot 2026-04-08 162431" src="https://github.com/user-attachments/assets/bbe7c52a-cced-4481-a084-090f1d3a3281" />
 
-   - Scaling (for linear models)  
 
 5. **Evaluation Metrics**
    - R² Score  
